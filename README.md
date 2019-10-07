@@ -41,7 +41,7 @@ Develop a face recognition system that will identify different faces and recall 
 
 
 ### Methodology:
-Implemented triple loss function in deep learning, used a pretrained model to map face images into 128-dimensional encodings and used the encodings to perform face and face recognition verification.
+Implemented triple loss function in deep learning, used a pretrained model to map face images into 128-dimensional encodings and used the encodings to perform face recognition and verification.
 
 #### Project Notebook: [Project link](https://github.com/tyonas9/Deep-Learning-and-Data-Science-Portfolio-Projects/blob/master/Face%20recognition%20system/Face%20Recognition%20for%20the%20Happy%20House%20-%20v2.ipynb)
 
