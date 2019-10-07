@@ -7,9 +7,8 @@ Construct a model that provides a probabilistic prediction if a donor makes
 more than $50,000.
 
 ### Methodology:
-Employed several supervised algorithms to model donors’ income using U.S. census data. 
-Then, the best candidate based on the preliminary result is further optimized by
-manipulating the cost function parameters.
+Employed several supervised machine learning algorithms to model donors’ income using U.S. census data. 
+Then, the best candidate based on the preliminary result is further optimized for a better result.
 
 #### Project Notebook: [Project link](https://github.com/tyonas9/Deep-Learning-and-Data-Science-Portfolio-Projects/blob/master/Probablistic%20prediction/finding_donors.ipynb) 
 
