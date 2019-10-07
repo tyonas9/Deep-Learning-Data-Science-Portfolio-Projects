@@ -1,6 +1,6 @@
 # Deep Learning and Data Science Portfolio Projects
 
-## Project 1 - Predicting Donors' Income using supervised learning
+## Project 1 - Predicting Donors' Income using supervised learning machine learning algorithm
 
 ### Problem Statement:
 Construct a model that provides a probabilistic prediction if a donor makes
