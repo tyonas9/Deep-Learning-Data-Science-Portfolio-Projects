@@ -3,7 +3,7 @@
 ## Project 1 - Predicting Donors' Income using supervised learning
 
 ### Problem Statement:
-Problem Statement: Construct a model that provides a probabilistic prediction if a donor makes
+Construct a model that provides a probabilistic prediction if a donor makes
 more than $50,000.
 
 ### Methodology:
@@ -21,28 +21,28 @@ on pixel density and distribution. An additional challenge is that there is only
 dataset.
 
 ### Methodology:
-Applied transfer learning methodology to enhance the initial Deep Learning(DL) model's speed.As a result, the speed of the application was significantly improved.
+Applied transfer learning methodology to enhance the initial Deep Learning(DL) model's speed.
 
 #### Project Notebook: [Project link](https://github.com/tyonas9/Deep-Learning-and-Data-Science-Portfolio-Projects/blob/master/Image%20classification%20application/Image%20Classifier%20Project.ipynb) 
 
 ## Project 3 - Building a Neural Machine Translation System
 
 ### Problem Statement:
-Build a neural machine translation model(NMT) to translate human readable dates (e.g. "25th of june, 2009") into machine readable dates ("2009-06-25").
+Build a neural machine translation (NMT) model to translate human readable dates (e.g. "25th of june, 2009") into machine readable dates ("2009-06-25").
 
 ### Methodology:
-Employed an attention model in deep learning, one of the most sophosticated Sequence to Sequence models to output dates in the common machine readable formate YYYY-MM-DD.
+Employed an attention model in deep learning, one of the most sophisticated sequence to sequence models to output dates in the common machine readable format YYYY-MM-DD.
 
 #### Project Notebook: [Project link](https://github.com/tyonas9/Deep-Learning-and-Data-Science-Portfolio-Projects/blob/master/Neural%20machine%20translation%20system/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
 
 ## Project 4 - Building a Face Recognition System
 
 ### Problem Statement : 
-Develop a face recognition system that will identify different faces and tell the name of the person.
+Develop a face recognition system that will identify different faces and recall name of the person.
 
 
 ### Methodology:
-Implemented triple loss function in deep learning, used a pretrained model to map face images into 128-dimensional encodings & used the encodings to perform face verification and face recognition.
+Implemented triple loss function in deep learning, used a pretrained model to map face images into 128-dimensional encodings and used the encodings to perform face and face recognition verification.
 
 #### Project Notebook: [Project link](https://github.com/tyonas9/Deep-Learning-and-Data-Science-Portfolio-Projects/blob/master/Face%20recognition%20system/Face%20Recognition%20for%20the%20Happy%20House%20-%20v2.ipynb)
 
